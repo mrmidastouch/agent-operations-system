@@ -25,4 +25,5 @@ My job is the structure that makes something that powerful reliable.
 ## Closing
 
 This system is being documented so it can run independently of any single tool.
+
 © 2026 Razi Ismail. All rights reserved. Showcase material: architecture and documentation only.
